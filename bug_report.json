@@ -3,10 +3,10 @@
     "bugname": "zaraza",
     "severity": "important",
     "priority": "high",
-    "environment": "old computer"
-    "author": "Ivanova"
-    "steps": "open"
-    "actual result": "nothing works"
+    "environment": "old computer",
+    "author": "Ivanova",
+    "steps": "open",
+    "actual result": "nothing works",
     "expected result": "everything works"
     }
 }
